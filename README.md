@@ -8,4 +8,8 @@ cd NASHWAN
 
 python3 Nas.py
 
+or 
+
+python3 NAS_ULTRA.py
+
 There is no password 
